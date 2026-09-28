@@ -28,8 +28,8 @@ Para resolver este problema de forma eficiente:
 
 ## ⏳ Complexidade
 
-- **Complexidade de Tempo:** $O(n)$ — Passamos pelo array apenas uma vez. As buscas e inserções na Tabela Hash levam tempo médio $O(1)$.
-- **Complexidade de Espaço:** $O(n)$ — No pior caso, armazenamos até $n$ elementos na Tabela Hash.
+- **Complexidade de Tempo:** `O(n)` — Passamos pelo array apenas uma vez. As buscas e inserções na Tabela Hash levam tempo médio `O(1)`.
+- **Complexidade de Espaço:** `O(n)` — No pior caso, armazenamos até $n$ elementos na Tabela Hash.
 
 ---
 
