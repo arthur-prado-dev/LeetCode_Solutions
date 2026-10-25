@@ -4,10 +4,10 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 
 ## 📊 Progresso
 
-- **Fácil:** 9
+- **Fácil:** 10
 - **Médio:** 0
 - **Difícil:** 0
-- **Total:** 9
+- **Total:** 10
 
 ---
 
@@ -24,3 +24,4 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Easy/0026-remove-duplicates-from-sorted-array/solution.cpp) | `Fácil` | Array, Two Pointers | `O(n)` | `O(1)` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Easy/0027-remove-element/solution.cpp) | `Fácil` | Array, Two Pointers | `O(n)` | `O(1)` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) | `Fácil` | Two Pointers, String | `O(n * m)` | `O(1)` |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./Easy/0035-search-insert-position/solution.cpp) | `Fácil` | Array, Binary Search | `O(log n)` | `O(1)` |
