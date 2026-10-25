@@ -4,10 +4,10 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 
 ## 📊 Progresso
 
-- **Fácil:** 10
+- **Fácil:** 11
 - **Médio:** 0
 - **Difícil:** 0
-- **Total:** 10
+- **Total:** 11
 
 ---
 
@@ -25,3 +25,4 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Easy/0027-remove-element/solution.cpp) | `Fácil` | Array, Two Pointers | `O(n)` | `O(1)` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) | `Fácil` | Two Pointers, String | `O(n * m)` | `O(1)` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./Easy/0035-search-insert-position/solution.cpp) | `Fácil` | Array, Binary Search | `O(log n)` | `O(1)` |
+| 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./Easy/0058-length-of-last-word/solution.cpp) | `Fácil` | String | `O(n)` | `O(1)` |
