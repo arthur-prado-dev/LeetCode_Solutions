@@ -4,10 +4,10 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 
 ## 📊 Progresso
 
-- **Fácil:** 8
+- **Fácil:** 9
 - **Médio:** 0
 - **Difícil:** 0
-- **Total:** 8
+- **Total:** 9
 
 ---
 
@@ -23,3 +23,4 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [C++](./Easy/0021-merge-two-sorted-lists/solution.cpp) | `Fácil` | Linked List, Recursion | `O(n + m)` | `O(1)` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](./Easy/0026-remove-duplicates-from-sorted-array/solution.cpp) | `Fácil` | Array, Two Pointers | `O(n)` | `O(1)` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [C++](./Easy/0027-remove-element/solution.cpp) | `Fácil` | Array, Two Pointers | `O(n)` | `O(1)` |
+| 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) | `Fácil` | Two Pointers, String | `O(n * m)` | `O(1)` |
