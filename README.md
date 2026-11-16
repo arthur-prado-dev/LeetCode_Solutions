@@ -4,10 +4,10 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 
 ## 📊 Progresso
 
-- **Fácil:** 11
+- **Fácil:** 13
 - **Médio:** 0
 - **Difícil:** 0
-- **Total:** 11
+- **Total:** 13
 
 ---
 
@@ -26,3 +26,5 @@ Repositório dedicado ao registro e organização das minhas soluções para os 
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [C++](./Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/solution.cpp) | `Fácil` | Two Pointers, String | `O(n * m)` | `O(1)` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [C++](./Easy/0035-search-insert-position/solution.cpp) | `Fácil` | Array, Binary Search | `O(log n)` | `O(1)` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./Easy/0058-length-of-last-word/solution.cpp) | `Fácil` | String | `O(n)` | `O(1)` |
+| 0066 | [Plus One](https://leetcode.com/problems/plus-one/) | [C++](./Easy/0066-plus-one/solution.cpp) | `Fácil` | Array, Math | `O(n)` | `O(1)` |
+| 0067 | [Add Binary](https://leetcode.com/problems/add-binary/) | [C++](./Easy/0067-add-binary/solution.cpp) | `Fácil` | Math, String, Bit Manipulation, Simulation | `O(max(n, m)²)` | `O(max(n, m))` |
